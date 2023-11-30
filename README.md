@@ -192,7 +192,7 @@ Here are some interesting resources about pairing-based cryptography:
 For a full list of all authors and contributors, see
 [the contributors page](https://github.com/keep-starknet-strange/garaga/contributors).
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful peoples ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
